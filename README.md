@@ -6,3 +6,4 @@
 ## 📒C
 - [상수와 데이터 출력](https://github.com/Dry-Mandarin/Cstuty/tree/main/studyC/예제2-1)
 - [변수와 데이터 입력](https://github.com/Dry-Mandarin/Cstuty/tree/main/Ex3)
+- [연산자](https://github.com/Dry-Mandarin/Cstuty/tree/main/4%20%EC%97%B0%EC%82%B0%EC%9E%90)
