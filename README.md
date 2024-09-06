@@ -11,3 +11,4 @@
 - [반복문](https://github.com/Dry-Mandarin/Cstuty/tree/main/6%20%EB%B0%98%EB%B3%B5%EB%AC%B8)
 - [함수](https://github.com/Dry-Mandarin/Cstuty/tree/main/7%20%ED%95%A8%EC%88%98)
 - [배열](https://github.com/Dry-Mandarin/Cstuty/tree/main/8%20%EB%B0%B0%EC%97%B4)
+- [포인터](https://github.com/Dry-Mandarin/Cstuty/tree/main/9%20%ED%8F%AC%EC%9D%B8%ED%84%B0)
